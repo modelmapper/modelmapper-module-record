@@ -8,7 +8,7 @@
   </parent>
   <groupId>org.modelmapper</groupId>
   <artifactId>modelmapper-module-record</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>ModelMapper Module Record</name>
   <description>ModelMapper Module for Record</description>
   <url>http://modelmapper.org</url>
