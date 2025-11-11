@@ -7,5 +7,7 @@ public class RecordModule implements Module {
   @Override
   public void setupModule(ModelMapper modelMapper) {
     modelMapper.getConfiguration().addValueReader(new RecordValueReader());
+    modelMapper.getConfiguration().addConstructorInjector(
+        new RecordConstructorInjector());
   }
 }
