@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.modelmapper</groupId>
   <artifactId>modelmapper-module-record</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <name>ModelMapper Module Record</name>
   <description>ModelMapper Module for Record</description>
   <url>http://modelmapper.org</url>
@@ -31,6 +31,7 @@
     <connection>scm:git:git@github.com:modelmapper/modelmapper-module-record.git</connection>
     <developerConnection>scm:git:git@github.com:modelmapper/modelmapper-module-record.git</developerConnection>
     <url>http://github.com/modelmapper/modelmapper-module-record/</url>
+    <tag>modelmapper-module-record-1.0.1</tag>
   </scm>
   <issueManagement>
     <system>GitHub</system>
